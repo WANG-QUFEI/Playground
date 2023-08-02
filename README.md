@@ -1,2 +1,2 @@
-# plaground
-Playground for trying out new things
+# Playground
+Code Scribbles
